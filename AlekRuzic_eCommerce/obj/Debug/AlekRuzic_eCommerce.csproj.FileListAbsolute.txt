@@ -1,0 +1,28 @@
+C:\Fanshawe\Term 2\INFO3091 ASP.NET\Labs\AlekRuzic_eCommerce\AlekRuzic_eCommerce\bin\AlekRuzic_eCommerce.dll.config
+C:\Fanshawe\Term 2\INFO3091 ASP.NET\Labs\AlekRuzic_eCommerce\AlekRuzic_eCommerce\bin\AlekRuzic_eCommerce.dll
+C:\Fanshawe\Term 2\INFO3091 ASP.NET\Labs\AlekRuzic_eCommerce\AlekRuzic_eCommerce\bin\AlekRuzic_eCommerce.pdb
+C:\Fanshawe\Term 2\INFO3091 ASP.NET\Labs\AlekRuzic_eCommerce\AlekRuzic_eCommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Fanshawe\Term 2\INFO3091 ASP.NET\Labs\AlekRuzic_eCommerce\AlekRuzic_eCommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Fanshawe\Term 2\INFO3091 ASP.NET\Labs\AlekRuzic_eCommerce\AlekRuzic_eCommerce\obj\Debug\AlekRuzic_eCommerce.csprojResolveAssemblyReference.cache
+C:\Fanshawe\Term 2\INFO3091 ASP.NET\Labs\AlekRuzic_eCommerce\AlekRuzic_eCommerce\obj\Debug\AlekRuzic_eCommerce.csproj.CoreCompileInputs.cache
+C:\Fanshawe\Term 2\INFO3091 ASP.NET\Labs\AlekRuzic_eCommerce\AlekRuzic_eCommerce\obj\Debug\AlekRuzic_eCommerce.dll
+C:\Fanshawe\Term 2\INFO3091 ASP.NET\Labs\AlekRuzic_eCommerce\AlekRuzic_eCommerce\obj\Debug\AlekRuzic_eCommerce.pdb
+C:\Fanshawe\Term 2\INFO3091 ASP.NET\Projects\AlekRuzic_eCommerce\AlekRuzic_eCommerce\bin\AlekRuzic_eCommerce.dll.config
+C:\Fanshawe\Term 2\INFO3091 ASP.NET\Projects\AlekRuzic_eCommerce\AlekRuzic_eCommerce\bin\AlekRuzic_eCommerce.dll
+C:\Fanshawe\Term 2\INFO3091 ASP.NET\Projects\AlekRuzic_eCommerce\AlekRuzic_eCommerce\bin\AlekRuzic_eCommerce.pdb
+C:\Fanshawe\Term 2\INFO3091 ASP.NET\Projects\AlekRuzic_eCommerce\AlekRuzic_eCommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Fanshawe\Term 2\INFO3091 ASP.NET\Projects\AlekRuzic_eCommerce\AlekRuzic_eCommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Fanshawe\Term 2\INFO3091 ASP.NET\Projects\AlekRuzic_eCommerce\AlekRuzic_eCommerce\obj\Debug\AlekRuzic_eCommerce.csprojResolveAssemblyReference.cache
+C:\Fanshawe\Term 2\INFO3091 ASP.NET\Projects\AlekRuzic_eCommerce\AlekRuzic_eCommerce\obj\Debug\AlekRuzic_eCommerce.csproj.CoreCompileInputs.cache
+C:\Fanshawe\Term 2\INFO3091 ASP.NET\Projects\AlekRuzic_eCommerce\AlekRuzic_eCommerce\obj\Debug\AlekRuzic_eCommerce.dll
+C:\Fanshawe\Term 2\INFO3091 ASP.NET\Projects\AlekRuzic_eCommerce\AlekRuzic_eCommerce\obj\Debug\AlekRuzic_eCommerce.pdb
+C:\Users\Alek\Desktop\AlekRuzic_eCommerce\AlekRuzic_eCommerce\bin\AlekRuzic_eCommerce.dll.config
+C:\Users\Alek\Desktop\AlekRuzic_eCommerce\AlekRuzic_eCommerce\bin\AlekRuzic_eCommerce.dll
+C:\Users\Alek\Desktop\AlekRuzic_eCommerce\AlekRuzic_eCommerce\bin\AlekRuzic_eCommerce.pdb
+C:\Users\Alek\Desktop\AlekRuzic_eCommerce\AlekRuzic_eCommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alek\Desktop\AlekRuzic_eCommerce\AlekRuzic_eCommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alek\Desktop\AlekRuzic_eCommerce\AlekRuzic_eCommerce\obj\Debug\AlekRuzic_eCommerce.csprojAssemblyReference.cache
+C:\Users\Alek\Desktop\AlekRuzic_eCommerce\AlekRuzic_eCommerce\obj\Debug\AlekRuzic_eCommerce.csproj.CoreCompileInputs.cache
+C:\Users\Alek\Desktop\AlekRuzic_eCommerce\AlekRuzic_eCommerce\obj\Debug\AlekRuzic_eCommerce.csproj.CopyComplete
+C:\Users\Alek\Desktop\AlekRuzic_eCommerce\AlekRuzic_eCommerce\obj\Debug\AlekRuzic_eCommerce.dll
+C:\Users\Alek\Desktop\AlekRuzic_eCommerce\AlekRuzic_eCommerce\obj\Debug\AlekRuzic_eCommerce.pdb

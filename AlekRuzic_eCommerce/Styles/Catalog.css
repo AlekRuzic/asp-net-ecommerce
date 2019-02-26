@@ -1,0 +1,12 @@
+﻿body {
+}
+
+#wrap {
+    width:660px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.catalogTable {
+    text-align:center;
+}

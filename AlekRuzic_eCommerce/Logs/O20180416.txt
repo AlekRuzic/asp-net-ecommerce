@@ -1,0 +1,16 @@
+2018-04-16 8:34:43 PM PayForOrder Starting Sales Transaction
+2018-04-16 8:34:44 PM PayForOrder 2.0 Invalid column name 'QtyOnHand'.
+2018-04-16 8:39:09 PM PayForOrder Starting Sales Transaction
+2018-04-16 8:42:43 PM PayForOrder Starting Sales Transaction
+2018-04-16 8:45:29 PM PayForOrder Starting Sales Transaction
+2018-04-16 8:45:46 PM PayForOrder 3.0 Invalid column name 'QtyOnHand'.
+2018-04-16 8:49:13 PM PayForOrder Starting Sales Transaction
+2018-04-16 8:53:22 PM PayForOrder Starting Sales Transaction
+2018-04-16 8:55:13 PM PayForOrder Starting Sales Transaction
+2018-04-16 8:56:45 PM PayForOrder Sales Transaction Completed for Customer 1
+2018-04-16 9:55:37 PM PayForOrder Starting Sales Transaction
+2018-04-16 9:55:43 PM PayForOrder Sales Transaction Completed for Customer 1
+2018-04-16 10:07:25 PM PayForOrder Starting Sales Transaction
+2018-04-16 10:07:29 PM PayForOrder Sales Transaction Completed for Customer 1
+2018-04-16 10:14:25 PM PayForOrder Starting Sales Transaction
+2018-04-16 10:14:26 PM PayForOrder Sales Transaction Completed for Customer 1

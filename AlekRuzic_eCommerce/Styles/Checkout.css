@@ -1,0 +1,16 @@
+﻿body {
+}
+
+#CustomerFrame {
+    width:350px;
+    height:300px;
+    float:left;
+    margin-left:40px;
+    overflow:hidden;
+}
+
+#DetailFrame {
+    width: 350px;
+    height: 300px;
+    float: left;
+}

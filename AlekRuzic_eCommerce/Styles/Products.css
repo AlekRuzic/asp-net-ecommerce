@@ -1,0 +1,47 @@
+﻿body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+
+#containerDiv {
+    width: 750px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom:1px;
+}
+
+#listbox {
+    float:left;
+    height:190px;
+    width:200px;
+}
+
+#productsTable {
+    float:left;
+    height:120px;
+}
+
+#imageBox {
+    height: 190px;
+    width: 200px;
+    float: left;
+    padding-right: 10px;
+}
+
+
+#buttonsDiv {
+    padding-top:20px;
+    width:270px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.lblMessages {
+    background-color: gray;
+    border: 1px solid black;
+    margin-top: 20px;
+    padding-top: 5px;
+}
+
